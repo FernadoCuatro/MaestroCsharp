@@ -1,0 +1,5 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayContadorDigitos\ArrayContadorDigitos\bin\Debug\ArrayContadorDigitos.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayContadorDigitos\ArrayContadorDigitos\bin\Debug\ArrayContadorDigitos.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayContadorDigitos\ArrayContadorDigitos\bin\Debug\ArrayContadorDigitos.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayContadorDigitos\ArrayContadorDigitos\obj\Debug\ArrayContadorDigitos.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayContadorDigitos\ArrayContadorDigitos\obj\Debug\ArrayContadorDigitos.pdb

@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ManejoArchivos\ManejoArchivos\bin\Debug\ManejoArchivos.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ManejoArchivos\ManejoArchivos\bin\Debug\ManejoArchivos.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ManejoArchivos\ManejoArchivos\bin\Debug\ManejoArchivos.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ManejoArchivos\ManejoArchivos\obj\Debug\ManejoArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ManejoArchivos\ManejoArchivos\obj\Debug\ManejoArchivos.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ManejoArchivos\ManejoArchivos\obj\Debug\ManejoArchivos.pdb

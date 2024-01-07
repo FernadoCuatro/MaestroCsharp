@@ -1,0 +1,9 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\Ejercicio01Directorios\Ejercicio01Directorios\bin\Debug\Ejercicio01Directorios.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\Ejercicio01Directorios\Ejercicio01Directorios\bin\Debug\Ejercicio01Directorios.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\Ejercicio01Directorios\Ejercicio01Directorios\bin\Debug\Ejercicio01Directorios.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\Ejercicio01Directorios\Ejercicio01Directorios\obj\Debug\Ejercicio01Directorios.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\Ejercicio01Directorios\Ejercicio01Directorios\obj\Debug\Ejercicio01Directorios.Properties.Resources.resources
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\Ejercicio01Directorios\Ejercicio01Directorios\obj\Debug\Ejercicio01Directorios.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\Ejercicio01Directorios\Ejercicio01Directorios\obj\Debug\Ejercicio01Directorios.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\Ejercicio01Directorios\Ejercicio01Directorios\obj\Debug\Ejercicio01Directorios.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\Ejercicio01Directorios\Ejercicio01Directorios\obj\Debug\Ejercicio01Directorios.Buscador.resources

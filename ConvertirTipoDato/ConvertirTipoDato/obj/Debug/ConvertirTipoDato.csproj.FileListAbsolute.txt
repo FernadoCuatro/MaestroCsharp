@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ConvertirTipoDato\ConvertirTipoDato\bin\Debug\ConvertirTipoDato.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ConvertirTipoDato\ConvertirTipoDato\obj\Debug\ConvertirTipoDato.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ConvertirTipoDato\ConvertirTipoDato\bin\Debug\ConvertirTipoDato.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ConvertirTipoDato\ConvertirTipoDato\bin\Debug\ConvertirTipoDato.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ConvertirTipoDato\ConvertirTipoDato\obj\Debug\ConvertirTipoDato.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ConvertirTipoDato\ConvertirTipoDato\obj\Debug\ConvertirTipoDato.pdb

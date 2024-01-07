@@ -1,0 +1,5 @@
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoContains\bin\Debug\MetodoContains.exe.config
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoContains\bin\Debug\MetodoContains.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoContains\bin\Debug\MetodoContains.pdb
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoContains\obj\Debug\MetodoContains.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoContains\obj\Debug\MetodoContains.pdb

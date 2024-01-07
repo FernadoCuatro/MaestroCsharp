@@ -1,0 +1,10 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDataGridView\ClaseDataGridView\bin\Debug\ClaseDataGridView.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDataGridView\ClaseDataGridView\bin\Debug\ClaseDataGridView.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDataGridView\ClaseDataGridView\bin\Debug\ClaseDataGridView.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDataGridView\ClaseDataGridView\obj\Debug\ClaseDataGridView.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDataGridView\ClaseDataGridView\obj\Debug\ClaseDataGridView.Form1.resources
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDataGridView\ClaseDataGridView\obj\Debug\ClaseDataGridView.Form2.resources
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDataGridView\ClaseDataGridView\obj\Debug\ClaseDataGridView.Properties.Resources.resources
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDataGridView\ClaseDataGridView\obj\Debug\ClaseDataGridView.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDataGridView\ClaseDataGridView\obj\Debug\ClaseDataGridView.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDataGridView\ClaseDataGridView\obj\Debug\ClaseDataGridView.pdb

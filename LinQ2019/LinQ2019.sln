@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQ2019", "LinQ2019\LinQ2019.csproj", "{36853F84-82CB-4EDE-A8F8-9B2193F648F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQEjercicio2", "LinQEjercicio2\LinQEjercicio2.csproj", "{B6B6888B-133F-4C70-B7E6-A5CA566BB367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQ2Condiciones", "LinQ2Condiciones\LinQ2Condiciones.csproj", "{E3AC105A-A725-4015-BAFC-2095613964FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQListas", "LinQListas\LinQListas.csproj", "{62D813E1-D40F-4C7D-9E23-0CB536B7F3A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQOrderBy", "LinQOrderBy\LinQOrderBy.csproj", "{C3AE50B0-21E5-441C-91E5-A45FB33094DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQOrderByInt", "LinQOrderByInt\LinQOrderByInt.csproj", "{B4566B39-3EF8-49C7-A720-0726C49852C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQOrderByListas", "LinQOrderByListas\LinQOrderByListas.csproj", "{AAC9470D-79A8-4F65-A63D-0E0A75ED83C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36853F84-82CB-4EDE-A8F8-9B2193F648F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36853F84-82CB-4EDE-A8F8-9B2193F648F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36853F84-82CB-4EDE-A8F8-9B2193F648F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36853F84-82CB-4EDE-A8F8-9B2193F648F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B6888B-133F-4C70-B7E6-A5CA566BB367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B6888B-133F-4C70-B7E6-A5CA566BB367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B6888B-133F-4C70-B7E6-A5CA566BB367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B6888B-133F-4C70-B7E6-A5CA566BB367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3AC105A-A725-4015-BAFC-2095613964FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3AC105A-A725-4015-BAFC-2095613964FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3AC105A-A725-4015-BAFC-2095613964FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3AC105A-A725-4015-BAFC-2095613964FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D813E1-D40F-4C7D-9E23-0CB536B7F3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D813E1-D40F-4C7D-9E23-0CB536B7F3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D813E1-D40F-4C7D-9E23-0CB536B7F3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D813E1-D40F-4C7D-9E23-0CB536B7F3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3AE50B0-21E5-441C-91E5-A45FB33094DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AE50B0-21E5-441C-91E5-A45FB33094DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AE50B0-21E5-441C-91E5-A45FB33094DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AE50B0-21E5-441C-91E5-A45FB33094DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4566B39-3EF8-49C7-A720-0726C49852C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4566B39-3EF8-49C7-A720-0726C49852C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4566B39-3EF8-49C7-A720-0726C49852C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4566B39-3EF8-49C7-A720-0726C49852C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC9470D-79A8-4F65-A63D-0E0A75ED83C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC9470D-79A8-4F65-A63D-0E0A75ED83C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC9470D-79A8-4F65-A63D-0E0A75ED83C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC9470D-79A8-4F65-A63D-0E0A75ED83C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

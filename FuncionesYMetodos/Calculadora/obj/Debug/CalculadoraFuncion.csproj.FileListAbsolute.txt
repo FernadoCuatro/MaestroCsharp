@@ -1,0 +1,3 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\Calculadora\obj\Debug\Calculadora.pdb

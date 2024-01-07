@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio02POO\Ejercicio02POO\bin\Debug\Ejercicio02POO.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio02POO\Ejercicio02POO\bin\Debug\Ejercicio02POO.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio02POO\Ejercicio02POO\bin\Debug\Ejercicio02POO.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio02POO\Ejercicio02POO\obj\Debug\Ejercicio02POO.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio02POO\Ejercicio02POO\obj\Debug\Ejercicio02POO.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio02POO\Ejercicio02POO\obj\Debug\Ejercicio02POO.pdb

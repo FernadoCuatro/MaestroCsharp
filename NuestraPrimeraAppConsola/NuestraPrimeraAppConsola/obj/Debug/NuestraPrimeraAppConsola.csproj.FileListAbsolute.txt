@@ -1,0 +1,1 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\NuestraPrimeraAppConsola\NuestraPrimeraAppConsola\bin\Debug\NuestraPrimeraAppConsola.exe.config

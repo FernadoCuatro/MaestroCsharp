@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio01POO\Ejercicio01POO\bin\Debug\Ejercicio01POO.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio01POO\Ejercicio01POO\bin\Debug\Ejercicio01POO.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio01POO\Ejercicio01POO\bin\Debug\Ejercicio01POO.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio01POO\Ejercicio01POO\obj\Debug\Ejercicio01POO.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio01POO\Ejercicio01POO\obj\Debug\Ejercicio01POO.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio01POO\Ejercicio01POO\obj\Debug\Ejercicio01POO.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\Ejercicio01POO\Ejercicio01POO\bin\Debug\Ejercicio01POO.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\Ejercicio01POO\Ejercicio01POO\obj\Debug\Ejercicio01POO.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\Ejercicio01POO\Ejercicio01POO\obj\Debug\Ejercicio01POO.pdb

@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\variablesTiposDatos\variablesTiposDatos\bin\Debug\variablesTiposDatos.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\variablesTiposDatos\variablesTiposDatos\bin\Debug\variablesTiposDatos.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\variablesTiposDatos\variablesTiposDatos\bin\Debug\variablesTiposDatos.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\variablesTiposDatos\variablesTiposDatos\obj\Debug\variablesTiposDatos.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\variablesTiposDatos\variablesTiposDatos\obj\Debug\variablesTiposDatos.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\variablesTiposDatos\variablesTiposDatos\obj\Debug\variablesTiposDatos.pdb

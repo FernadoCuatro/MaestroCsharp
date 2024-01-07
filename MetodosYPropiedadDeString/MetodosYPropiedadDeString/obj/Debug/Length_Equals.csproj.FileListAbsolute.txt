@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosYPropiedadDeString\MetodosYPropiedadDeString\bin\Debug\MetodosYPropiedadDeString.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosYPropiedadDeString\MetodosYPropiedadDeString\obj\Debug\MetodosYPropiedadDeString.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosYPropiedadDeString\MetodosYPropiedadDeString\obj\Debug\MetodosYPropiedadDeString.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosYPropiedadDeString\MetodosYPropiedadDeString\bin\Debug\MetodosYPropiedadDeString.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosYPropiedadDeString\MetodosYPropiedadDeString\bin\Debug\MetodosYPropiedadDeString.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosYPropiedadDeString\MetodosYPropiedadDeString\obj\Debug\Length_Equals.csprojResolveAssemblyReference.cache

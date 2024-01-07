@@ -1,0 +1,5 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQOrderByListas\bin\Debug\LinQOrderByListas.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQOrderByListas\bin\Debug\LinQOrderByListas.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQOrderByListas\bin\Debug\LinQOrderByListas.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQOrderByListas\obj\Debug\LinQOrderByListas.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQOrderByListas\obj\Debug\LinQOrderByListas.pdb

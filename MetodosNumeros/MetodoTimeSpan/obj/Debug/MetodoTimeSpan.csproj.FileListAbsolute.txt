@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoTimeSpan\bin\Debug\MetodoTimeSpan.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoTimeSpan\bin\Debug\MetodoTimeSpan.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoTimeSpan\bin\Debug\MetodoTimeSpan.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoTimeSpan\obj\Debug\MetodoTimeSpan.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoTimeSpan\obj\Debug\MetodoTimeSpan.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoTimeSpan\obj\Debug\MetodoTimeSpan.csprojResolveAssemblyReference.cache

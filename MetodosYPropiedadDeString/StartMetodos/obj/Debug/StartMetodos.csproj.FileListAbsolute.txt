@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\StartMetodos\bin\Debug\StartMetodos.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\StartMetodos\bin\Debug\StartMetodos.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\StartMetodos\bin\Debug\StartMetodos.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\StartMetodos\obj\Debug\StartMetodos.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\StartMetodos\obj\Debug\StartMetodos.pdb

@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\AplicacionClaseMath\bin\Debug\AplicacionClaseMath.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\AplicacionClaseMath\bin\Debug\AplicacionClaseMath.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\AplicacionClaseMath\bin\Debug\AplicacionClaseMath.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\AplicacionClaseMath\obj\Debug\AplicacionClaseMath.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\AplicacionClaseMath\obj\Debug\AplicacionClaseMath.pdb

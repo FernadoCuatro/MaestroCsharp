@@ -1,0 +1,6 @@
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoEnd\bin\Debug\MetodoEnd.exe.config
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoEnd\bin\Debug\MetodoEnd.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoEnd\bin\Debug\MetodoEnd.pdb
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoEnd\obj\Debug\MetodoEnd.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoEnd\obj\Debug\MetodoEnd.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoEnd\obj\Debug\MetodoEnd.pdb

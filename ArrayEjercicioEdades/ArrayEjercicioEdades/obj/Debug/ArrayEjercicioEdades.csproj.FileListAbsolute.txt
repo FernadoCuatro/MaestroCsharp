@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayEjercicioEdades\ArrayEjercicioEdades\bin\Debug\ArrayEjercicioEdades.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayEjercicioEdades\ArrayEjercicioEdades\bin\Debug\ArrayEjercicioEdades.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayEjercicioEdades\ArrayEjercicioEdades\bin\Debug\ArrayEjercicioEdades.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayEjercicioEdades\ArrayEjercicioEdades\obj\Debug\ArrayEjercicioEdades.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayEjercicioEdades\ArrayEjercicioEdades\obj\Debug\ArrayEjercicioEdades.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayEjercicioEdades\ArrayEjercicioEdades\obj\Debug\ArrayEjercicioEdades.csprojResolveAssemblyReference.cache

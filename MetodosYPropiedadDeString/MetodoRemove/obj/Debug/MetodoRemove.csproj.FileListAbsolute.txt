@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoRemove\bin\Debug\MetodoRemove.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoRemove\bin\Debug\MetodoRemove.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoRemove\bin\Debug\MetodoRemove.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoRemove\obj\Debug\MetodoRemove.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoRemove\obj\Debug\MetodoRemove.pdb

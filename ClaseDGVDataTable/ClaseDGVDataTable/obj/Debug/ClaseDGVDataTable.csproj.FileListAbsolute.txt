@@ -1,0 +1,9 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDGVDataTable\ClaseDGVDataTable\bin\Debug\ClaseDGVDataTable.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDGVDataTable\ClaseDGVDataTable\bin\Debug\ClaseDGVDataTable.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDGVDataTable\ClaseDGVDataTable\bin\Debug\ClaseDGVDataTable.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDGVDataTable\ClaseDGVDataTable\obj\Debug\ClaseDGVDataTable.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDGVDataTable\ClaseDGVDataTable\obj\Debug\ClaseDGVDataTable.Form1.resources
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDGVDataTable\ClaseDGVDataTable\obj\Debug\ClaseDGVDataTable.Properties.Resources.resources
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDGVDataTable\ClaseDGVDataTable\obj\Debug\ClaseDGVDataTable.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDGVDataTable\ClaseDGVDataTable\obj\Debug\ClaseDGVDataTable.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClaseDGVDataTable\ClaseDGVDataTable\obj\Debug\ClaseDGVDataTable.pdb

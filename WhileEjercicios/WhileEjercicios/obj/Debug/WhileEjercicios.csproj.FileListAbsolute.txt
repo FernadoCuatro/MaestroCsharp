@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\WhileEjercicios\WhileEjercicios\bin\Debug\WhileEjercicios.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\WhileEjercicios\WhileEjercicios\bin\Debug\WhileEjercicios.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\WhileEjercicios\WhileEjercicios\bin\Debug\WhileEjercicios.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\WhileEjercicios\WhileEjercicios\obj\Debug\WhileEjercicios.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\WhileEjercicios\WhileEjercicios\obj\Debug\WhileEjercicios.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\WhileEjercicios\WhileEjercicios\obj\Debug\WhileEjercicios.pdb

@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\NumerosRango\NumerosRango\bin\Debug\NumerosRango.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\NumerosRango\NumerosRango\bin\Debug\NumerosRango.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\NumerosRango\NumerosRango\bin\Debug\NumerosRango.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\NumerosRango\NumerosRango\obj\Debug\NumerosRango.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\NumerosRango\NumerosRango\obj\Debug\NumerosRango.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\NumerosRango\NumerosRango\obj\Debug\NumerosRango.pdb

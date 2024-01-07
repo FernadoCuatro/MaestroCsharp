@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoEquals\bin\Debug\MetodoEquals.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoEquals\bin\Debug\MetodoEquals.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoEquals\bin\Debug\MetodoEquals.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoEquals\obj\Debug\MetodoEquals.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoEquals\obj\Debug\MetodoEquals.pdb

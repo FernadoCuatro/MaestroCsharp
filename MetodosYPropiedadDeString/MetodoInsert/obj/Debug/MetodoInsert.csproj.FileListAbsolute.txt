@@ -1,0 +1,5 @@
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoInsert\bin\Debug\MetodoInsert.exe.config
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoInsert\bin\Debug\MetodoInsert.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoInsert\bin\Debug\MetodoInsert.pdb
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoInsert\obj\Debug\MetodoInsert.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoInsert\obj\Debug\MetodoInsert.pdb

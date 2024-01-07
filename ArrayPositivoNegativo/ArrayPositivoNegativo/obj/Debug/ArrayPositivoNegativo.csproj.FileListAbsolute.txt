@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayPositivoNegativo\ArrayPositivoNegativo\bin\Debug\ArrayPositivoNegativo.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayPositivoNegativo\ArrayPositivoNegativo\bin\Debug\ArrayPositivoNegativo.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayPositivoNegativo\ArrayPositivoNegativo\bin\Debug\ArrayPositivoNegativo.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayPositivoNegativo\ArrayPositivoNegativo\obj\Debug\ArrayPositivoNegativo.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayPositivoNegativo\ArrayPositivoNegativo\obj\Debug\ArrayPositivoNegativo.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayPositivoNegativo\ArrayPositivoNegativo\obj\Debug\ArrayPositivoNegativo.pdb

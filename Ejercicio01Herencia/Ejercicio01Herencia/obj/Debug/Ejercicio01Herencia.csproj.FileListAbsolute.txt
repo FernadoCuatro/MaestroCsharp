@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio01Herencia\Ejercicio01Herencia\bin\Debug\Ejercicio01Herencia.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio01Herencia\Ejercicio01Herencia\bin\Debug\Ejercicio01Herencia.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio01Herencia\Ejercicio01Herencia\bin\Debug\Ejercicio01Herencia.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio01Herencia\Ejercicio01Herencia\obj\Debug\Ejercicio01Herencia.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio01Herencia\Ejercicio01Herencia\obj\Debug\Ejercicio01Herencia.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio01Herencia\Ejercicio01Herencia\obj\Debug\Ejercicio01Herencia.pdb
+C:\Users\Fernando\Desktop\Ejercicio01Herencia\Ejercicio01Herencia\bin\Debug\Ejercicio01Herencia.exe.config
+C:\Users\Fernando\Desktop\Ejercicio01Herencia\Ejercicio01Herencia\obj\Debug\Ejercicio01Herencia.exe
+C:\Users\Fernando\Desktop\Ejercicio01Herencia\Ejercicio01Herencia\obj\Debug\Ejercicio01Herencia.pdb

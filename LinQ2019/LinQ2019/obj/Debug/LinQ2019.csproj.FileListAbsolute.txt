@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQ2019\bin\Debug\LinQ2019.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQ2019\bin\Debug\LinQ2019.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQ2019\bin\Debug\LinQ2019.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQ2019\obj\Debug\LinQ2019.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQ2019\obj\Debug\LinQ2019.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQ2019\obj\Debug\LinQ2019.pdb

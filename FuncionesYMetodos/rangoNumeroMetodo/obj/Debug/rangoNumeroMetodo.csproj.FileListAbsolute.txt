@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\rangoNumeroMetodo\bin\Debug\rangoNumeroMetodo.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\rangoNumeroMetodo\bin\Debug\rangoNumeroMetodo.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\rangoNumeroMetodo\bin\Debug\rangoNumeroMetodo.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\rangoNumeroMetodo\obj\Debug\rangoNumeroMetodo.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\rangoNumeroMetodo\obj\Debug\rangoNumeroMetodo.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\rangoNumeroMetodo\obj\Debug\rangoNumeroMetodo.pdb

@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\sueldosFuncion\bin\Debug\sueldosFuncion.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\sueldosFuncion\bin\Debug\sueldosFuncion.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\sueldosFuncion\bin\Debug\sueldosFuncion.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\sueldosFuncion\obj\Debug\sueldosFuncion.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\sueldosFuncion\obj\Debug\sueldosFuncion.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\sueldosFuncion\obj\Debug\sueldosFuncion.pdb

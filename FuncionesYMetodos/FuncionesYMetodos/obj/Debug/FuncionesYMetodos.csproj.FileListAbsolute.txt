@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\FuncionesYMetodos\bin\Debug\FuncionesYMetodos.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\FuncionesYMetodos\bin\Debug\FuncionesYMetodos.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\FuncionesYMetodos\bin\Debug\FuncionesYMetodos.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\FuncionesYMetodos\obj\Debug\FuncionesYMetodos.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\FuncionesYMetodos\obj\Debug\FuncionesYMetodos.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\FuncionesYMetodos\obj\Debug\FuncionesYMetodos.pdb

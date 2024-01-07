@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\AreaRectangulo\AreaRectangulo\bin\Debug\AreaRectangulo.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\AreaRectangulo\AreaRectangulo\bin\Debug\AreaRectangulo.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\AreaRectangulo\AreaRectangulo\bin\Debug\AreaRectangulo.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\AreaRectangulo\AreaRectangulo\obj\Debug\AreaRectangulo.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\AreaRectangulo\AreaRectangulo\obj\Debug\AreaRectangulo.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\AreaRectangulo\AreaRectangulo\obj\Debug\AreaRectangulo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\arrayMetodo\bin\Debug\arrayMetodo.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\arrayMetodo\bin\Debug\arrayMetodo.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\arrayMetodo\bin\Debug\arrayMetodo.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\arrayMetodo\obj\Debug\arrayMetodo.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\arrayMetodo\obj\Debug\arrayMetodo.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\FuncionesYMetodos\arrayMetodo\obj\Debug\arrayMetodo.pdb

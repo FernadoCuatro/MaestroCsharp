@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQListas\bin\Debug\LinQListas.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQListas\bin\Debug\LinQListas.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQListas\bin\Debug\LinQListas.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQListas\obj\Debug\LinQListas.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQListas\obj\Debug\LinQListas.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQListas\obj\Debug\LinQListas.pdb

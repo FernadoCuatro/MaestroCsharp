@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ListasTeorias\ListasTeorias\bin\Debug\ListasTeorias.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ListasTeorias\ListasTeorias\bin\Debug\ListasTeorias.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ListasTeorias\ListasTeorias\bin\Debug\ListasTeorias.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ListasTeorias\ListasTeorias\obj\Debug\ListasTeorias.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ListasTeorias\ListasTeorias\obj\Debug\ListasTeorias.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ListasTeorias\ListasTeorias\obj\Debug\ListasTeorias.pdb

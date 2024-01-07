@@ -1,0 +1,2 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe.config

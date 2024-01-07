@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\HerenciaPOO\HerenciaPOO\bin\Debug\HerenciaPOO.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\HerenciaPOO\HerenciaPOO\bin\Debug\HerenciaPOO.exe
+c:\users\usuario\documents\visual studio 2015\Projects\HerenciaPOO\HerenciaPOO\bin\Debug\HerenciaPOO.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\HerenciaPOO\HerenciaPOO\obj\Debug\HerenciaPOO.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\HerenciaPOO\HerenciaPOO\obj\Debug\HerenciaPOO.exe
+c:\users\usuario\documents\visual studio 2015\Projects\HerenciaPOO\HerenciaPOO\obj\Debug\HerenciaPOO.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\HerenciaPOO\HerenciaPOO\bin\Debug\HerenciaPOO.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\HerenciaPOO\HerenciaPOO\obj\Debug\HerenciaPOO.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\HerenciaPOO\HerenciaPOO\obj\Debug\HerenciaPOO.pdb

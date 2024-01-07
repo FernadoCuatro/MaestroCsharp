@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYClasesAbstractas\MetodosYClasesAbstractas\bin\Debug\MetodosYClasesAbstractas.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYClasesAbstractas\MetodosYClasesAbstractas\bin\Debug\MetodosYClasesAbstractas.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYClasesAbstractas\MetodosYClasesAbstractas\bin\Debug\MetodosYClasesAbstractas.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYClasesAbstractas\MetodosYClasesAbstractas\obj\Debug\MetodosYClasesAbstractas.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYClasesAbstractas\MetodosYClasesAbstractas\obj\Debug\MetodosYClasesAbstractas.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYClasesAbstractas\MetodosYClasesAbstractas\obj\Debug\MetodosYClasesAbstractas.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosYClasesAbstractas\MetodosYClasesAbstractas\bin\Debug\MetodosYClasesAbstractas.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosYClasesAbstractas\MetodosYClasesAbstractas\obj\Debug\MetodosYClasesAbstractas.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosYClasesAbstractas\MetodosYClasesAbstractas\obj\Debug\MetodosYClasesAbstractas.pdb

@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayTeoria\ArrayTeoria\bin\Debug\ArrayTeoria.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayTeoria\ArrayTeoria\bin\Debug\ArrayTeoria.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayTeoria\ArrayTeoria\bin\Debug\ArrayTeoria.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayTeoria\ArrayTeoria\obj\Debug\ArrayTeoria.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayTeoria\ArrayTeoria\obj\Debug\ArrayTeoria.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArrayTeoria\ArrayTeoria\obj\Debug\ArrayTeoria.pdb

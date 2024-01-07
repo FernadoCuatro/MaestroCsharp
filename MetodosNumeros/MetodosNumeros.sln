@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosNumeros", "MetodosNumeros\MetodosNumeros.csproj", "{7A1393EA-C1F6-40FA-934B-BA8930BEDD9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoEquals", "MetodoEquals\MetodoEquals.csproj", "{791D9246-E5B6-4BC9-B88E-81D18781E5BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoToString", "MetodoToString\MetodoToString.csproj", "{DE5ADD9F-6872-4478-BB61-5AD45F635AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacionClaseMath", "AplicacionClaseMath\AplicacionClaseMath.csproj", "{B423276E-E908-4B3E-B1CF-EB2ED9AF68D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosArray", "MetodosArray\MetodosArray.csproj", "{BF1C36D1-DBAF-4E8E-954A-1B95F05323FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoTimeSpan", "MetodoTimeSpan\MetodoTimeSpan.csproj", "{21176975-CE22-46EE-8E3F-FC36537835DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A1393EA-C1F6-40FA-934B-BA8930BEDD9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1393EA-C1F6-40FA-934B-BA8930BEDD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1393EA-C1F6-40FA-934B-BA8930BEDD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1393EA-C1F6-40FA-934B-BA8930BEDD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{791D9246-E5B6-4BC9-B88E-81D18781E5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791D9246-E5B6-4BC9-B88E-81D18781E5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791D9246-E5B6-4BC9-B88E-81D18781E5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791D9246-E5B6-4BC9-B88E-81D18781E5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5ADD9F-6872-4478-BB61-5AD45F635AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5ADD9F-6872-4478-BB61-5AD45F635AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5ADD9F-6872-4478-BB61-5AD45F635AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5ADD9F-6872-4478-BB61-5AD45F635AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B423276E-E908-4B3E-B1CF-EB2ED9AF68D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B423276E-E908-4B3E-B1CF-EB2ED9AF68D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B423276E-E908-4B3E-B1CF-EB2ED9AF68D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B423276E-E908-4B3E-B1CF-EB2ED9AF68D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF1C36D1-DBAF-4E8E-954A-1B95F05323FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1C36D1-DBAF-4E8E-954A-1B95F05323FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1C36D1-DBAF-4E8E-954A-1B95F05323FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1C36D1-DBAF-4E8E-954A-1B95F05323FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21176975-CE22-46EE-8E3F-FC36537835DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21176975-CE22-46EE-8E3F-FC36537835DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21176975-CE22-46EE-8E3F-FC36537835DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21176975-CE22-46EE-8E3F-FC36537835DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

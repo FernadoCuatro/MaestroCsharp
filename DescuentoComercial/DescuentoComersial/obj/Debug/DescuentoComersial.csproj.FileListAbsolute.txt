@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\DescuentoComersial\DescuentoComersial\bin\Debug\DescuentoComersial.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\DescuentoComersial\DescuentoComersial\bin\Debug\DescuentoComersial.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\DescuentoComersial\DescuentoComersial\bin\Debug\DescuentoComersial.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\DescuentoComersial\DescuentoComersial\obj\Debug\DescuentoComersial.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\DescuentoComersial\DescuentoComersial\obj\Debug\DescuentoComersial.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\DescuentoComersial\DescuentoComersial\obj\Debug\DescuentoComersial.pdb

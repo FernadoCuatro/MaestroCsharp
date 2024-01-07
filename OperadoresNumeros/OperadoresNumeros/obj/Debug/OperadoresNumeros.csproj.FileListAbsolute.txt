@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\OperadoresNumeros\OperadoresNumeros\bin\Debug\OperadoresNumeros.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\OperadoresNumeros\OperadoresNumeros\bin\Debug\OperadoresNumeros.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\OperadoresNumeros\OperadoresNumeros\bin\Debug\OperadoresNumeros.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\OperadoresNumeros\OperadoresNumeros\obj\Debug\OperadoresNumeros.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\OperadoresNumeros\OperadoresNumeros\obj\Debug\OperadoresNumeros.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\OperadoresNumeros\OperadoresNumeros\obj\Debug\OperadoresNumeros.pdb

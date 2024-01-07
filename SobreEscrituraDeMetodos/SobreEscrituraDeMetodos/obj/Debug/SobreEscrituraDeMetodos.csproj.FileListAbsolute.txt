@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\SobreEscrituraDeMetodos\SobreEscrituraDeMetodos\bin\Debug\SobreEscrituraDeMetodos.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\SobreEscrituraDeMetodos\SobreEscrituraDeMetodos\bin\Debug\SobreEscrituraDeMetodos.exe
+c:\users\usuario\documents\visual studio 2015\Projects\SobreEscrituraDeMetodos\SobreEscrituraDeMetodos\bin\Debug\SobreEscrituraDeMetodos.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\SobreEscrituraDeMetodos\SobreEscrituraDeMetodos\obj\Debug\SobreEscrituraDeMetodos.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\SobreEscrituraDeMetodos\SobreEscrituraDeMetodos\obj\Debug\SobreEscrituraDeMetodos.exe
+c:\users\usuario\documents\visual studio 2015\Projects\SobreEscrituraDeMetodos\SobreEscrituraDeMetodos\obj\Debug\SobreEscrituraDeMetodos.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\SobreEscrituraDeMetodos\SobreEscrituraDeMetodos\bin\Debug\SobreEscrituraDeMetodos.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\SobreEscrituraDeMetodos\SobreEscrituraDeMetodos\obj\Debug\SobreEscrituraDeMetodos.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\SobreEscrituraDeMetodos\SobreEscrituraDeMetodos\obj\Debug\SobreEscrituraDeMetodos.pdb

@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodosNumeros\bin\Debug\MetodosNumeros.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodosNumeros\bin\Debug\MetodosNumeros.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodosNumeros\bin\Debug\MetodosNumeros.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodosNumeros\obj\Debug\MetodosNumeros.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodosNumeros\obj\Debug\MetodosNumeros.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodosNumeros\obj\Debug\MetodosNumeros.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosNumeros\MetodosNumeros\bin\Debug\MetodosNumeros.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosNumeros\MetodosNumeros\obj\Debug\MetodosNumeros.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosNumeros\MetodosNumeros\obj\Debug\MetodosNumeros.pdb

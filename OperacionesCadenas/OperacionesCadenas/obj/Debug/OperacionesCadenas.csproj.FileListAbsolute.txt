@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\OperacionesCadenas\OperacionesCadenas\bin\Debug\OperacionesCadenas.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\OperacionesCadenas\OperacionesCadenas\bin\Debug\OperacionesCadenas.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\OperacionesCadenas\OperacionesCadenas\bin\Debug\OperacionesCadenas.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\OperacionesCadenas\OperacionesCadenas\obj\Debug\OperacionesCadenas.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\OperacionesCadenas\OperacionesCadenas\obj\Debug\OperacionesCadenas.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\OperacionesCadenas\OperacionesCadenas\obj\Debug\OperacionesCadenas.pdb

@@ -1,0 +1,6 @@
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoReplace\bin\Debug\MetodoReplace.exe.config
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoReplace\bin\Debug\MetodoReplace.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoReplace\bin\Debug\MetodoReplace.pdb
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoReplace\obj\Debug\MetodoReplace.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoReplace\obj\Debug\MetodoReplace.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoReplace\obj\Debug\MetodoReplace.pdb

@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Excepciones\Excepciones\bin\Debug\Excepciones.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Excepciones\Excepciones\bin\Debug\Excepciones.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Excepciones\Excepciones\bin\Debug\Excepciones.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Fernando\Desktop\Excepciones\Excepciones\bin\Debug\Excepciones.exe.config
+C:\Users\Fernando\Desktop\Excepciones\Excepciones\obj\Debug\Excepciones.exe
+C:\Users\Fernando\Desktop\Excepciones\Excepciones\obj\Debug\Excepciones.pdb

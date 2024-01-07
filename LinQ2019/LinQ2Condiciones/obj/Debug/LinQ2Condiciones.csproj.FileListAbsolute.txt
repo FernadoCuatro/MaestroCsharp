@@ -1,0 +1,5 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQ2Condiciones\bin\Debug\LinQ2Condiciones.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQ2Condiciones\bin\Debug\LinQ2Condiciones.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQ2Condiciones\bin\Debug\LinQ2Condiciones.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQ2Condiciones\obj\Debug\LinQ2Condiciones.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQ2Condiciones\obj\Debug\LinQ2Condiciones.pdb

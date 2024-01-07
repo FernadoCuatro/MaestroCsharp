@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoToString\bin\Debug\MetodoToString.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoToString\bin\Debug\MetodoToString.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoToString\bin\Debug\MetodoToString.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoToString\obj\Debug\MetodoToString.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosNumeros\MetodoToString\obj\Debug\MetodoToString.pdb

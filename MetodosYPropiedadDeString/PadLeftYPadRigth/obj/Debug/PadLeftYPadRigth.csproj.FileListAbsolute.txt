@@ -1,0 +1,5 @@
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\PadLeftYPadRigth\bin\Debug\PadLeftYPadRigth.exe.config
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\PadLeftYPadRigth\bin\Debug\PadLeftYPadRigth.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\PadLeftYPadRigth\bin\Debug\PadLeftYPadRigth.pdb
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\PadLeftYPadRigth\obj\Debug\PadLeftYPadRigth.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\PadLeftYPadRigth\obj\Debug\PadLeftYPadRigth.pdb

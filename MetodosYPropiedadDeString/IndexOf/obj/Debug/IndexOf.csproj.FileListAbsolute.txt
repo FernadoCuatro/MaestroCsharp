@@ -1,0 +1,5 @@
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\IndexOf\bin\Debug\IndexOf.exe.config
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\IndexOf\bin\Debug\IndexOf.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\IndexOf\bin\Debug\IndexOf.pdb
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\IndexOf\obj\Debug\IndexOf.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\IndexOf\obj\Debug\IndexOf.pdb

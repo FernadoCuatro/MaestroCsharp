@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoToCharArray\bin\Debug\MetodoToCharArray.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoToCharArray\bin\Debug\MetodoToCharArray.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoToCharArray\bin\Debug\MetodoToCharArray.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoToCharArray\obj\Debug\MetodoToCharArray.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodoToCharArray\obj\Debug\MetodoToCharArray.pdb

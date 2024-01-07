@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodosYPropiedadDeString\bin\Debug\MetodosYPropiedadDeString.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodosYPropiedadDeString\bin\Debug\MetodosYPropiedadDeString.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodosYPropiedadDeString\bin\Debug\MetodosYPropiedadDeString.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodosYPropiedadDeString\obj\Debug\MetodosYPropiedadDeString.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodosYPropiedadDeString\obj\Debug\MetodosYPropiedadDeString.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MetodosYPropiedadDeString\MetodosYPropiedadDeString\obj\Debug\MetodosYPropiedadDeString.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosYPropiedadDeString\MetodosYPropiedadDeString\bin\Debug\MetodosYPropiedadDeString.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosYPropiedadDeString\MetodosYPropiedadDeString\obj\Debug\MetodosYPropiedadDeString.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\MetodosYPropiedadDeString\MetodosYPropiedadDeString\obj\Debug\MetodosYPropiedadDeString.pdb

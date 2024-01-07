@@ -1,0 +1,9 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClasePictureBox\ClasePictureBox\bin\Debug\ClasePictureBox.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClasePictureBox\ClasePictureBox\bin\Debug\ClasePictureBox.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClasePictureBox\ClasePictureBox\bin\Debug\ClasePictureBox.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClasePictureBox\ClasePictureBox\obj\Debug\ClasePictureBox.Form1.resources
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClasePictureBox\ClasePictureBox\obj\Debug\ClasePictureBox.Properties.Resources.resources
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClasePictureBox\ClasePictureBox\obj\Debug\ClasePictureBox.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClasePictureBox\ClasePictureBox\obj\Debug\ClasePictureBox.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClasePictureBox\ClasePictureBox\obj\Debug\ClasePictureBox.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ClasePictureBox\ClasePictureBox\obj\Debug\ClasePictureBox.Form2.resources

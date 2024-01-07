@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ForEjemplos\ForEjemplos\bin\Debug\ForEjemplos.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ForEjemplos\ForEjemplos\bin\Debug\ForEjemplos.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ForEjemplos\ForEjemplos\bin\Debug\ForEjemplos.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ForEjemplos\ForEjemplos\obj\Debug\ForEjemplos.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ForEjemplos\ForEjemplos\obj\Debug\ForEjemplos.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ForEjemplos\ForEjemplos\obj\Debug\ForEjemplos.pdb

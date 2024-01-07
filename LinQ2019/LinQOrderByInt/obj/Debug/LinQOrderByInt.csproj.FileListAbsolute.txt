@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQOrderByInt\bin\Debug\LinQOrderByInt.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQOrderByInt\bin\Debug\LinQOrderByInt.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQOrderByInt\bin\Debug\LinQOrderByInt.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQOrderByInt\obj\Debug\LinQOrderByInt.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQOrderByInt\obj\Debug\LinQOrderByInt.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\LinQ2019\LinQOrderByInt\obj\Debug\LinQOrderByInt.csprojResolveAssemblyReference.cache

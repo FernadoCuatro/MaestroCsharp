@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\SumaDosNumeros\SumaDosNumeros\bin\Debug\SumaDosNumeros.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\SumaDosNumeros\SumaDosNumeros\bin\Debug\SumaDosNumeros.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\SumaDosNumeros\SumaDosNumeros\bin\Debug\SumaDosNumeros.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\SumaDosNumeros\SumaDosNumeros\obj\Debug\SumaDosNumeros.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\SumaDosNumeros\SumaDosNumeros\obj\Debug\SumaDosNumeros.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\SumaDosNumeros\SumaDosNumeros\obj\Debug\SumaDosNumeros.pdb

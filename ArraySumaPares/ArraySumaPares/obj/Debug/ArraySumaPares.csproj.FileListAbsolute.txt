@@ -1,0 +1,5 @@
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArraySumaPares\ArraySumaPares\bin\Debug\ArraySumaPares.exe.config
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArraySumaPares\ArraySumaPares\bin\Debug\ArraySumaPares.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArraySumaPares\ArraySumaPares\bin\Debug\ArraySumaPares.pdb
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArraySumaPares\ArraySumaPares\obj\Debug\ArraySumaPares.exe
+C:\Users\Fernando\Documents\Servidor\aSeguir\MaestroCsharp\ArraySumaPares\ArraySumaPares\obj\Debug\ArraySumaPares.pdb
